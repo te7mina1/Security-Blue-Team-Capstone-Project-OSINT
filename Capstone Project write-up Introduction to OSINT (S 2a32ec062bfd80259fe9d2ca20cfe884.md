@@ -77,7 +77,7 @@ Checking for the X account to find any information using Google Dorking.
 
 Based on the results it appears to be the first output from the search, which looks very promising with the third output as well. Further investigation, let’s check the account.
 
-![image.png](Capstone%20Project%20write-up%20Introduction%20to%20OSINT%20(S/image%202.png)
+<img width="718" height="651" alt="image" src="https://github.com/user-attachments/assets/96a8d6c7-f462-4c0c-ac2e-994f885c4060" />
 
 From the page of our target, we were able to find an encoded text (**cmVkaHVudC5uZXQK.xyz**) in base64. Not sure what it was or where it leads to, I decided to decode it and find what is behind.
 
