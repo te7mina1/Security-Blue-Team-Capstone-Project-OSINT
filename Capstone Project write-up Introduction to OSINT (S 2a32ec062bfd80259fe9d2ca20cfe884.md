@@ -91,19 +91,19 @@ echo -n "cmVkaHVudC5uZXQK.xyz" | base64 -d
 
 I then got the output or decoded text pointing to another url.
 
-![image.png](Capstone%20Project%20write-up%20Introduction%20to%20OSINT%20(S/image%204.png)
+<img width="1162" height="508" alt="image" src="https://github.com/user-attachments/assets/ee87ffe1-e6d2-4d72-8634-9797cff93acc" />
 
 Using Google Dorking technique to only find the output related to the target account, @sp1itfyre , I got the first link which leads to the target website.
 
-![image.png](Capstone%20Project%20write-up%20Introduction%20to%20OSINT%20(S/image%205.png)
+<img width="715" height="811" alt="image 5" src="https://github.com/user-attachments/assets/3ef6e043-7465-4e07-993c-f55a8d7eb6d5" />
 
 Checking the website, I did not find anything much on the page. But scrolling down to the website, I realized the target was the owner of the site. 
 
-![image.png](Capstone%20Project%20write-up%20Introduction%20to%20OSINT%20(S/image%206.png)
+<img width="944" height="471" alt="image 6" src="https://github.com/user-attachments/assets/bf22e545-726f-4dbf-a785-59c126279e78" />
 
 Not getting much information, I decided to search for the target user again to find anything related, which then brings me a blogger post website. This time I was sure to get much information about the target user.
 
-![image.png](Capstone%20Project%20write-up%20Introduction%20to%20OSINT%20(S/image%207.png)
+<img width="1201" height="775" alt="image 7" src="https://github.com/user-attachments/assets/d44fbf8d-05b6-4745-9bd9-1afe180b00d4" />
 
 From the blog post, we could find several information about the user like the
 
@@ -113,18 +113,18 @@ From the blog post, we could find several information about the user like the
 
 **68747470733a2f2f73616d6d6965776f6f647365632e626c6f6773706f742e636f6d**
 
-![image.png](Capstone%20Project%20write-up%20Introduction%20to%20OSINT%20(S/image%208.png)
+<img width="1376" height="549" alt="image 8" src="https://github.com/user-attachments/assets/b9d22f85-9f04-4e37-820e-02cf66530f5d" />
 
 After decoding the encoded string from hexadecimal using cyberchef, I got the output pointing to a blogspot ([**https://sammiewoodsec.blogspot.com**](https://sammiewoodsec.blogspot.com/)) page. This time, I was hoping to get most of the information I am looking for about the target.
 
-![image.png](Capstone%20Project%20write-up%20Introduction%20to%20OSINT%20(S/image%209.png)
+<img width="1112" height="785" alt="image 9" src="https://github.com/user-attachments/assets/c20960e7-2bdc-478f-aefe-eb19abb963d7" />
 
 As hoped, I was able to find most information on this blog post like the target’s
 
 - **Name - Sam Woods**
 - **Email - [d1ved33p@gmail.com](mailto:d1ved33p@gmail.com)** and also the about page of the user, **Sam Woods**.
 
-![image.png](Capstone%20Project%20write-up%20Introduction%20to%20OSINT%20(S/image%2010.png)
+<img width="919" height="763" alt="image 10" src="https://github.com/user-attachments/assets/a3dddc9e-bb7a-4c17-9d98-00e8e7daa577" />
 
 More on the About page, some of the information required for the task can be found with other interesting information also. I got:
 
@@ -132,7 +132,7 @@ More on the About page, some of the information required for the task can be fou
 - **Location - Reading, United Kingdom**
 - **Interests - Security, Programming, Technology, Gaming, Photography, Camping**
 
-![image.png](Capstone%20Project%20write-up%20Introduction%20to%20OSINT%20(S/image%2011.png)
+<img width="719" height="287" alt="image 11" src="https://github.com/user-attachments/assets/8a8ba22b-a86f-4bdb-82e8-348de250e2fa" />
 
 Going very down to the page, I found the age of my target in a section of her post leading to a very detailed section about herself.
 
@@ -141,18 +141,18 @@ Going very down to the page, I found the age of my target in a section of her po
 > The age also can be found on the same page where she talks about how she entered in to cybersecurity as shown below.
 > 
 
-![image.png](Capstone%20Project%20write-up%20Introduction%20to%20OSINT%20(S/image%2012.png)
+<img width="769" height="771" alt="image 12" src="https://github.com/user-attachments/assets/a709d0d2-db32-4285-8b63-a70dfff97ef6" />
 
 In the above, i found a lot of information about how she started, how she grew up and the schools she went to. Focusing more on the company and her role there is most crucial as part of my task.
 
 - **Company - PhilmanSecurityInc.**
 - **Role - junior pen tester**
 
-![image.png](Capstone%20Project%20write-up%20Introduction%20to%20OSINT%20(S/image%2013.png)
+<img width="759" height="421" alt="image 13" src="https://github.com/user-attachments/assets/58947145-644d-4155-ad53-0705d1670db7" />
 
 Being curious to check for other information also, I decided to go for the “Hacker stories” page, just to see if anything spicy can be found there.
 
-![image.png](Capstone%20Project%20write-up%20Introduction%20to%20OSINT%20(S/image%2014.png)
+<img width="1608" height="504" alt="image 14" src="https://github.com/user-attachments/assets/988b6f8a-f17f-46b7-889f-d6bd74b83b07" />
 
 As shown on the page, “There is nothing here!” and indeed I couldn’t find anything good here. That brings me to the end of the task given to me on OSINT.
 
