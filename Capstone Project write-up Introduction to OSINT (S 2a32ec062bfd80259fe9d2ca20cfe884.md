@@ -1,6 +1,6 @@
 # Capstone Project write-up : Introduction to OSINT (Security Blue Team)
 
-![image.png](Capstone%20Project%20write-up%20Introduction%20to%20OSINT%20(S/image.png)
+<img width="786" height="728" alt="image" src="https://github.com/user-attachments/assets/03f5521a-4e5a-47c3-8d2c-203e2a726e5f" />
 
 Before completing the SBT OSINT course, I had little knowledge about how Open-Source Intelligence is all about. I faced a lot of challenges whiles taking the course due to unfamiliarity with some of the tools, but I was eager to know more with determination and research online I successfully achieve the aim.
 
