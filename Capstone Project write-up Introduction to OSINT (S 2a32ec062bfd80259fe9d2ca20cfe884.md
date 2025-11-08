@@ -72,7 +72,8 @@ Email Addresses Utilised:
 
 Checking for the X account to find any information using Google Dorking.
 
-![image.png](Capstone%20Project%20write-up%20Introduction%20to%20OSINT%20(S/image%201.png)
+<img width="1186" height="670" alt="image" src="https://github.com/user-attachments/assets/5121d106-df16-45c3-9033-bfc238cb9782" />
+
 
 Based on the results it appears to be the first output from the search, which looks very promising with the third output as well. Further investigation, let’s check the account.
 
