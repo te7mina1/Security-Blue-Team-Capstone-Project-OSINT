@@ -81,7 +81,7 @@ Based on the results it appears to be the first output from the search, which lo
 
 From the page of our target, we were able to find an encoded text (**cmVkaHVudC5uZXQK.xyz**) in base64. Not sure what it was or where it leads to, I decided to decode it and find what is behind.
 
-![image.png](Capstone%20Project%20write-up%20Introduction%20to%20OSINT%20(S/image%203.png)
+<img width="664" height="70" alt="image" src="https://github.com/user-attachments/assets/47f3c1eb-93ae-40b4-a69f-d5372185e71f" />
 
 There are online tools for decoding an encoded text such as cyberchef, but I decided to use the terminal. Using the command in the terminal
 
